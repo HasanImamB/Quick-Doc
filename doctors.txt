@@ -1,0 +1,100 @@
+Dr. Akash Ahmed,MBBS,General Physician,City Hospital,Chamber 101,MEHEDIBUG,9 AM - 5 PM,1234500001
+Dr. Barun Chowdhury,MBBS,General Physician,Central Hospital,Chamber 102,MEHEDIBUG,10 AM - 6 PM,1234500002
+Dr. Uttam Kumar,MBBS,General Physician,Life Hospital,Chamber 103,OXYGEN,11 AM - 7 PM,1234500021
+Dr. Varun Mitra,MBBS,General Physician,Green Hospital,Chamber 104,OXYGEN,12 PM - 8 PM,1234500022
+Dr. Chameli Dey,MD,Pediatrician,Child Care Clinic,Chamber 201,MEHEDIBUG,10 AM - 4 PM,1234500003
+Dr. Dipu Datta,MD,Pediatrician,Kids Health Center,Chamber 202,MEHEDIBUG,11 AM - 5 PM,1234500004
+Dr. Erfan Islam,MD,Cardiologist,Heart Institute,Chamber 301,MEHEDIBUG,9 AM - 5 PM,1234500005
+Dr. Farhan Khan,MD,Cardiologist,Heart Care Clinic,Chamber 302,MEHEDIBUG,10 AM - 6 PM,1234500006
+Dr. Gazi Rahman,MS,Orthopedic Surgeon,Ortho Hospital,Chamber 401,MEHEDIBUG,12 PM - 8 PM,1234500007
+Dr. Hana Ahmed,MS,Orthopedic Surgeon,Bone & Joint Clinic,Chamber 402,MEHEDIBUG,1 PM - 7 PM,1234500008
+Dr. Ishrat Jahan,MD,Dermatologist,Skin Care Clinic,Chamber 501,MEHEDIBUG,9 AM - 3 PM,1234500009
+Dr. Junaid Karim,MD,Dermatologist,Beauty Skin Center,Chamber 502,MEHEDIBUG,10 AM - 4 PM,1234500010
+Dr. Kabir Hasan,MD,Gynecologist,Womens Health Clinic,Chamber 601,MEHEDIBUG,9 AM - 3 PM,1234500011
+Dr. Lima Akter,MD,Gynecologist,Female Health Center,Chamber 602,MEHEDIBUG,10 AM - 4 PM,1234500012
+Dr. Manik Hossain,MD,Neurologist,Neuro Institute,Chamber 701,MEHEDIBUG,1 PM - 7 PM,1234500013
+Dr. Nasrin Sultana,MD,Neurologist,Brain Care Clinic,Chamber 702,MEHEDIBUG,2 PM - 8 PM,1234500014
+Dr. Omar Faruq,MD,Psychiatrist,Mental Health Clinic,Chamber 801,MEHEDIBUG,9 AM - 3 PM,1234500015
+Dr. Priya Das,MD,Psychiatrist,Mind Care Center,Chamber 802,MEHEDIBUG,10 AM - 4 PM,1234500016
+Dr. Qazi Rahim,MD,Ophthalmologist,Eye Care Hospital,Chamber 901,MEHEDIBUG,8 AM - 3 PM,1234500017
+Dr. Rizwan Ahmed,MD,Ophthalmologist,Vision Center,Chamber 902,MEHEDIBUG,9 AM - 4 PM,1234500018
+Dr. Shafique Ullah,DDS,Dentist,Dental Care Clinic,Chamber 1001,MEHEDIBUG,9 AM - 1 PM,1234500019
+Dr. Tania Islam,DDS,Dentist,Smile Dental Clinic,Chamber 1002,MEHEDIBUG,10 AM - 2 PM,1234500020
+Dr. Waseem Akram,MD,Pediatrician,Baby Care Clinic,Chamber 203,OXYGEN,11 AM - 5 PM,1234500023
+Dr. Yasmin Begum,MD,Pediatrician,Child Health Center,Chamber 204,OXYGEN,12 PM - 6 PM,1234500024
+Dr. Zahid Hossain,MD,Cardiologist,Cardiac Hospital,Chamber 303,OXYGEN,9 AM - 5 PM,1234500025
+Dr. Abir Rafiq,MD,Cardiologist,Heart Specialist Clinic,Chamber 304,OXYGEN,10 AM - 6 PM,1234500026
+Dr. Bipasha Rahman,MS,Orthopedic Surgeon,Bone Hospital,Chamber 403,OXYGEN,12 PM - 8 PM,1234500027
+Dr. Chandan Das,MS,Orthopedic Surgeon,Joint Care Clinic,Chamber 404,OXYGEN,1 PM - 7 PM,1234500028
+Dr. Dalia Sultana,MD,Dermatologist,Skin Hospital,Chamber 503,OXYGEN,9 AM - 3 PM,1234500029
+Dr. Ehsan Karim,MD,Dermatologist,Derma Care Center,Chamber 504,OXYGEN,10 AM - 4 PM,1234500030
+Dr. Farzana Akter,MD,Gynecologist,Women's Health Center,Chamber 603,OXYGEN,9 AM - 3 PM,1234500031
+Dr. Gopal Dutta,MD,Gynecologist,Ladies Care Clinic,Chamber 604,OXYGEN,10 AM - 4 PM,1234500032
+Dr. Habib Rahman,MD,Neurologist,Neuro Specialist Clinic,Chamber 703,OXYGEN,1 PM - 7 PM,1234500033
+Dr. Iqbal Ahmed,MD,Neurologist,Nerve Care Hospital,Chamber 704,OXYGEN,2 PM - 8 PM,1234500034
+Dr. Jahanara Begum,MD,Psychiatrist,Wellness Clinic,Chamber 803,OXYGEN,9 AM - 3 PM,1234500035
+Dr. Kamal Hossain,MD,Psychiatrist,Behavioral Health Center,Chamber 804,OXYGEN,10 AM - 4 PM,1234500036
+Dr. Lubna Akter,MD,Ophthalmologist,Eye Specialist Clinic,Chamber 903,OXYGEN,8 AM - 3 PM,1234500037
+Dr. Moinul Islam,MD,Ophthalmologist,Optical Health Center,Chamber 904,OXYGEN,9 AM - 4 PM,1234500038
+Dr. Nazmul Huda,DDS,Dentist,Teeth Care Clinic,Chamber 1003,OXYGEN,9 AM - 1 PM,1234500039
+Dr. Ovi Rahman,DDS,Dentist,Oral Health Clinic,Chamber 1004,OXYGEN,10 AM - 2 PM,1234500040
+Dr. Parvez Ahmed,MBBS,General Physician,Health Hub,Chamber 105,PANCHLAISH,11 AM - 7 PM,1234500041
+Dr. Qadir Ullah,MBBS,General Physician,Prime Hospital,Chamber 106,PANCHLAISH,12 PM - 8 PM,1234500042
+Dr. Rizvi Karim,MD,Pediatrician,Happy Kids Clinic,Chamber 205,PANCHLAISH,11 AM - 5 PM,1234500043
+Dr. Sahana Parvin,MD,Pediatrician,Child Wellness Center,Chamber 206,PANCHLAISH,12 PM - 6 PM,1234500044
+Dr. Tareq Aziz,MD,Cardiologist,Heartbeat Clinic,Chamber 305,PANCHLAISH,9 AM - 5 PM,1234500045
+Dr. Uzma Chowdhury,MD,Cardiologist,Healthy Heart Center,Chamber 306,PANCHLAISH,10 AM - 6 PM,1234500046
+Dr. Vaskar Sinha,MS,Orthopedic Surgeon,Ortho Specialist Clinic,Chamber 405,PANCHLAISH,12 PM - 8 PM,1234500047
+Dr. Wasif Rahman,MS,Orthopedic Surgeon,Bone & Joint Hospital,Chamber 406,PANCHLAISH,1 PM - 7 PM,1234500048
+Dr. Yamin Islam,MD,Dermatologist,Skin Wellness Center,Chamber 505,PANCHLAISH,9 AM - 3 PM,1234500049
+Dr. Zarin Ahmed,MD,Dermatologist,Derma Clinic,Chamber 506,PANCHLAISH,10 AM - 4 PM,1234500050
+Dr. Abdul Kader,MD,Gynecologist,Women's Wellness Clinic,Chamber 605,PANCHLAISH,9 AM - 3 PM,1234500051
+Dr. Bithi Sultana,MD,Gynecologist,Female Health Hospital,Chamber 606,PANCHLAISH,10 AM - 4 PM,1234500052
+Dr. Chisty Rahman,MD,Neurologist,Brain Health Center,Chamber 705,PANCHLAISH,1 PM - 7 PM,1234500053
+Dr. Dipti Akter,MD,Neurologist,Nerve Wellness Clinic,Chamber 706,PANCHLAISH,2 PM - 8 PM,1234500054
+Dr. Ehsan Hossain,MD,Psychiatrist,Behavior Health Clinic,Chamber 805,PANCHLAISH,9 AM - 3 PM,1234500055
+Dr. Farzana Islam,MD,Psychiatrist,Mental Wellness Center,Chamber 806,PANCHLAISH,10 AM - 4 PM,1234500056
+Dr. Golam Hossain,MD,Ophthalmologist,Vision Wellness Clinic,Chamber 905,PANCHLAISH,8 AM - 3 PM,1234500057
+Dr. Huma Karim,MD,Ophthalmologist,Optic Health Center,Chamber 906,PANCHLAISH,9 AM - 4 PM,1234500058
+Dr. Imran Ali,DDS,Dentist,Teeth Wellness Clinic,Chamber 1005,PANCHLAISH,9 AM - 1 PM,1234500059
+Dr. Jannat Akter,DDS,Dentist,Smile Health Clinic,Chamber 1006,PANCHLAISH,10 AM - 2 PM,1234500060
+Dr. Khaled Hasan,MBBS,General Physician,Health Clinic,Chamber 107,PAHARTALI,11 AM - 7 PM,1234500061
+Dr. Lubna Rahman,MBBS,General Physician,Primary Health Center,Chamber 108,PAHARTALI,12 PM - 8 PM,1234500062
+Dr. Masud Rana,MD,Pediatrician,Kids Wellness Clinic,Chamber 207,PAHARTALI,11 AM - 5 PM,1234500063
+Dr. Nasim Akter,MD,Pediatrician,Children's Health Clinic,Chamber 208,PAHARTALI,12 PM - 6 PM,1234500064
+Dr. Obaidul Haque,MD,Cardiologist,Cardiac Wellness Center,Chamber 307,PAHARTALI,9 AM - 5 PM,1234500065
+Dr. Parvin Sultana,MD,Cardiologist,Heart Health Clinic,Chamber 308,PAHARTALI,10 AM - 6 PM,1234500066
+Dr. Qamrul Islam,MS,Orthopedic Surgeon,Joint Health Clinic,Chamber 407,PAHARTALI,12 PM - 8 PM,1234500067
+Dr. Rahima Akter,MS,Orthopedic Surgeon,Ortho Wellness Center,Chamber 408,PAHARTALI,1 PM - 7 PM,1234500068
+Dr. Shahana Rahman,MD,Dermatologist,Skin Health Clinic,Chamber 507,PAHARTALI,9 AM - 3 PM,1234500069
+Dr. Tanvir Ahmed,MD,Dermatologist,Beauty Wellness Center,Chamber 508,PAHARTALI,10 AM - 4 PM,1234500070
+Dr. Umme Habiba,MD,Gynecologist,Women's Clinic,Chamber 607,PAHARTALI,9 AM - 3 PM,1234500071
+Dr. Vashkar Saha,MD,Gynecologist,Ladies Health Clinic,Chamber 608,PAHARTALI,10 AM - 4 PM,1234500072
+Dr. Wasif Ahmed,MD,Neurologist,Nerve Specialist Clinic,Chamber 707,PAHARTALI,1 PM - 7 PM,1234500073
+Dr. Yasmin Sultana,MD,Neurologist,Brain Wellness Clinic,Chamber 708,PAHARTALI,2 PM - 8 PM,1234500074
+Dr. Zahid Karim,MD,Psychiatrist,Mental Health Hospital,Chamber 807,PAHARTALI,9 AM - 3 PM,1234500075
+Dr. Anika Islam,MD,Psychiatrist,Psych Wellness Center,Chamber 808,PAHARTALI,10 AM - 4 PM,1234500076
+Dr. Basir Ahmed,MD,Ophthalmologist,Eye Wellness Clinic,Chamber 907,PAHARTALI,8 AM - 3 PM,1234500077
+Dr. Chaitali Dutta,MD,Ophthalmologist,Vision Health Center,Chamber 908,PAHARTALI,9 AM - 4 PM,1234500078
+Dr. Dipu Islam,DDS,Dentist,Oral Wellness Clinic,Chamber 1007,PAHARTALI,9 AM - 1 PM,1234500079
+Dr. Eshan Akter,DDS,Dentist,Dental Health Clinic,Chamber 1008,PAHARTALI,10 AM - 2 PM,1234500080
+Dr. Farid Uddin,MBBS,General Physician,Health First Clinic,Chamber 109,AGRABAD,11 AM - 7 PM,1234500081
+Dr. Gausul Azam,MBBS,General Physician,Primary Care Clinic,Chamber 110,AGRABAD,12 PM - 8 PM,1234500082
+Dr. Hamida Rahman,MD,Pediatrician,Kids Health Hospital,Chamber 209,AGRABAD,11 AM - 5 PM,1234500083
+Dr. Iqbal Khan,MD,Pediatrician,Child Wellness Hospital,Chamber 210,AGRABAD,12 PM - 6 PM,1234500084
+Dr. Jannatul Ferdaus,MD,Cardiologist,Cardiac Specialist Clinic,Chamber 309,AGRABAD,9 AM - 5 PM,1234500085
+Dr. Kamrul Islam,MD,Cardiologist,Heart Wellness Hospital,Chamber 310,AGRABAD,10 AM - 6 PM,1234500086
+Dr. Liza Khan,MS,Orthopedic Surgeon,Bone Wellness Center,Chamber 409,AGRABAD,12 PM - 8 PM,1234500087
+Dr. Mahbubul Alam,MS,Orthopedic Surgeon,Ortho Health Clinic,Chamber 410,AGRABAD,1 PM - 7 PM,1234500088
+Dr. Nafisa Ahmed,MD,Dermatologist,Derma Wellness Clinic,Chamber 509,AGRABAD,9 AM - 3 PM,1234500089
+Dr. Obaidullah Karim,MD,Dermatologist,Skin Health Center,Chamber 510,AGRABAD,10 AM - 4 PM,1234500090
+Dr. Panna Islam,MD,Gynecologist,Female Wellness Clinic,Chamber 609,AGRABAD,9 AM - 3 PM,1234500091
+Dr. Quratul Ain,MD,Gynecologist,Womens Health Hospital,Chamber 610,AGRABAD,10 AM - 4 PM,1234500092
+Dr. Rashedul Karim,MD,Neurologist,Nerve Health Clinic,Chamber 709,AGRABAD,1 PM - 7 PM,1234500093
+Dr. Shakil Ahmed,MD,Neurologist,Brain Specialist Clinic,Chamber 710,AGRABAD,2 PM - 8 PM,1234500094
+Dr. Tanzina Rahman,MD,Psychiatrist,Psych Health Clinic,Chamber 809,AGRABAD,9 AM - 3 PM,1234500095
+Dr. Umme Kulsum,MD,Psychiatrist,Mental Wellness Hospital,Chamber 810,AGRABAD,10 AM - 4 PM,1234500096
+Dr. Wasim Akram,MD,Ophthalmologist,Vision Health Hospital,Chamber 909,AGRABAD,8 AM - 3 PM,1234500097
+Dr. Yasir Rahman,MD,Ophthalmologist,Optic Wellness Clinic,Chamber 910,AGRABAD,9 AM - 4 PM,1234500098
+Dr. Zahid Khan,DDS,Dentist,Oral Health Center,Chamber 1009,AGRABAD,9 AM - 1 PM,1234500099
+Dr. Ananya Sultana,DDS,Dentist,Dental Wellness Hospital,Chamber 1010,AGRABAD,10 AM - 2 PM,1234500100
